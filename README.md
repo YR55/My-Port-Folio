@@ -76,5 +76,5 @@ Each project highlights:
 
 Clone the repository:
 ```bash
-git clone https://github.com/YR55/MyPortFolio.git
-cd MyPortFolio
+git clone https://github.com/YR55/My-Port-Folio.git
+cd My-Port-Folio
